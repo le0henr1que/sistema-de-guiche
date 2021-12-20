@@ -1,0 +1,176 @@
+body {
+    background-color: #0066FF;
+}
+
+.painel-central {
+    width: 550px;
+    height: 680px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    border: 1px solid #EFEFF4;
+    box-shadow: 0px 32px 64px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.title {
+    width: 526px;
+    height: 52px;
+    background: #F4FAFF;
+    border-radius: 16px;
+    margin: 11px;
+    text-align: center;
+}
+
+.title-central {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #474747;
+}
+
+.sua-senha {
+    width: 453px;
+    height: 100px;
+    left: 60px;
+    top: 110px;
+    background: rgba(66, 255, 19, 0.37);
+    margin-top: 70px;
+    margin-bottom: 20px;
+    margin-left: 37px;
+}
+
+.senha-antiga {
+    display: inline-block;
+    width: 226px;
+    height: 133px;
+    background: #F2D7E3;
+    text-align: left;
+}
+
+.senha-atual {
+    display: inline-block;
+    width: 226px;
+    height: 133px;
+    background: #CFF3E5;
+    text-align: left;
+}
+
+.label-sua-senha {
+    width: 189px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    color: #3D3D3D;
+}
+
+.label-senha-antiga {
+    left: 14px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #474747;
+    margin: 10px;
+}
+
+.label-senha-atual {
+    left: 14px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #474747;
+    margin: 10px;
+}
+
+.label-senha-antiga-senha {
+    width: 100%;
+    left: 14px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: #3D3D3D;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.label-senha-atual-senha {
+    width: 100%;
+    left: 14px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: #3D3D3D;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.quadrado-footer-1 {
+    display: inline-block;
+    width: 114.49px;
+    height: 86px;
+    margin-top: 100px;
+}
+
+.quadrado-footer-2 {
+    display: inline-block;
+    width: 114.49px;
+    height: 86px;
+    background: #E3F5EB;
+    margin-top: 100px;
+}
+
+.quadrado-footer-3 {
+    display: inline-block;
+    width: 114.49px;
+    height: 86px;
+    margin-top: 100px;
+}
+
+.mesa {
+    display: block;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    /* identical to box height, or 37% */
+    color: #6E6E6E;
+    margin-top: 20px;
+}
+
+.label-footer-1 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    display: block;
+    color: #01103D;
+}
+
+.label-footer-2 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    display: block;
+    color: #01103D;
+}
+
+.label-footer-3 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    display: block;
+    color: #01103D;
+}
